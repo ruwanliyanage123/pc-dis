@@ -1,6 +1,4 @@
-import org.springframework.stereotype.Component;
 
-@Component
 public class Battery {
     private String brand;
     private String price;

@@ -1,6 +1,4 @@
-import org.springframework.stereotype.Component;
 
-@Component
 public class Ram {
     private String model;
     private String price;

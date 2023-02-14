@@ -1,3 +1,5 @@
+import javax.annotation.Resource;
+
 public class Laptop {
 
     private Battery battery;
